@@ -6,3 +6,4 @@ Bonjour à tous,je suis Christelle DOLEFFO, développeuse web front-end et back-
          
              Liens sociaux
      GITHUB, FACEBOOK, GMAIL,LINKEDIN    
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
